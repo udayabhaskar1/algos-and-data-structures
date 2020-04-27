@@ -14,7 +14,7 @@ support the following methods:
 ● __getitem__(j) and __setitem__(j, e) to provide standard indexing operations
 ● __len__() to enable len(A)
 
-Deliverables:
+Deliverables for the assessment:
 1. Pseudocode for the methods of the SparseArray class.
 2. An analysis of the efficiency of your algorithms for __getitem__(j), __setitem__(j, e), and fill(seq) in
 terms of m , the number of actual non-empty elements, and n , the overall size of the array. You must
